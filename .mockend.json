@@ -19,7 +19,7 @@
             }
         },
         "email": {
-            "regexp": "andre.lademann+[a-z]{5,10}@netresearch.de"
+            "regexp": "andre.lademann\+[a-z]{5,10}@netresearch.de"
         },
         "color": {
             "regexp": "#[0-9A-F]{6}"
