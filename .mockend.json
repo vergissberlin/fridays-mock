@@ -1,7 +1,7 @@
 {
     "User": {
         "name": {
-                    "loremWord": {}
+            "loremWord": {}
         },
         "avatarUrl": {
             "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
@@ -48,6 +48,12 @@
         },
         "post": {
             "belongsTo": "Post"
+        },
+        "createdAt": {
+            "dateTime": {
+                "min": "2010-01-01T00:00:00Z",
+                "max": "2020-12-31T23:59:59Z"
+            }
         }
     }
 }
