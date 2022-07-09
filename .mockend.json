@@ -1,7 +1,14 @@
 {
     "User": {
         "name": {
-            "regexp": "[A-Z][a-z]{5,10}"
+            "string": [
+                {
+                    "loremWord": {}
+                },
+                {
+                    "loremWord": {}
+                }
+            ]
         },
         "avatarUrl": {
             "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
