@@ -19,7 +19,7 @@
             }
         },
         "email": {
-            "regexp": "andre.lademann\+[a-z]{5,10}@netresearch.de"
+            "regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
         },
         "color": {
             "regexp": "#[0-9A-F]{6}"
@@ -44,7 +44,10 @@
     },
     "Comment": {
         "body": {
-            "string": {}
+            "loremSentences": {
+                "minLength": 100,
+                "maxLength": 200
+            }
         },
         "post": {
             "belongsTo": "Post"
