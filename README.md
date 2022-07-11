@@ -24,7 +24,6 @@ Mockend for testing purpose
 }
 ```
 
-
 ### Posts
 - https://mockend.com/vergissberlin/fridays-mock/post
 - https://mockend.com/vergissberlin/fridays-mock/post/1
@@ -33,4 +32,6 @@ Mockend for testing purpose
 - https://mockend.com/vergissberlin/fridays-mock/comment
 - https://mockend.com/vergissberlin/fridays-mock/comments
 
+## Contribution
 
+To add endpoints or make changes, follow the intructions https://docs.mockend.com/
