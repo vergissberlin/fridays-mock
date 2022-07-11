@@ -6,8 +6,9 @@ Mockend for testing purpose
 
 
 ### User
-- https://mockend.com/vergissberlin/fridays-mock/user
-- https://mockend.com/vergissberlin/fridays-mock/user/1
+
+https://mockend.com/vergissberlin/fridays-mock/user
+https://mockend.com/vergissberlin/fridays-mock/user/1
 
 #### Example
 ```json
@@ -25,12 +26,14 @@ Mockend for testing purpose
 ```
 
 ### Posts
-- https://mockend.com/vergissberlin/fridays-mock/post
-- https://mockend.com/vergissberlin/fridays-mock/post/1
+
+https://mockend.com/vergissberlin/fridays-mock/post
+https://mockend.com/vergissberlin/fridays-mock/post/1
 
 ### Comments
-- https://mockend.com/vergissberlin/fridays-mock/comment
-- https://mockend.com/vergissberlin/fridays-mock/comments
+
+https://mockend.com/vergissberlin/fridays-mock/comment
+https://mockend.com/vergissberlin/fridays-mock/comments
 
 ## Contribution
 
