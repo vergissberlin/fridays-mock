@@ -40,8 +40,8 @@
     "Post": {
         "title": {
             "loremWords": {
-                "minLength": 4,
-                "maxLength": 12
+                "minLength": 12,
+                "maxLength": 42
             }
         },
         "body": {
