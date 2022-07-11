@@ -34,9 +34,15 @@
             "boolean": {}
         }
     },
-    "Post": {
+    "Posts": {
         "title": {
-            "string": {}
+            "loremWords": {}
+        },
+        "body": {
+            "loremSentences": {
+                "minLength": 100,
+                "maxLength": 200
+            }
         },
         "comments": {
             "hasMany": "Comment"
