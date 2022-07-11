@@ -44,6 +44,9 @@
                 "maxLength": 42
             }
         },
+        "photo": {
+            "regexp": "https://picsum\\.photos/seed/[0-9]{5}/800/600"
+        },
         "body": {
             "loremSentences": {
                 "minLength": 100,
