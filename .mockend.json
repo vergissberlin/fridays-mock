@@ -1,9 +1,9 @@
 {
     "User": {
         "name": {
-            "loremWords":{
-                "minLength": 2,
-                "maxLength": 3
+            "loremWords": {
+                "minLength": 4,
+                "maxLength": 12
             }
         },
         "avatarUrl": {
@@ -37,10 +37,10 @@
             "boolean": {}
         }
     },
-    "Posts": {
+    "Post": {
         "title": {
             "loremWords": {
-                "minLength": 2,
+                "minLength": 4,
                 "maxLength": 12
             }
         },
