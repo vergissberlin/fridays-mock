@@ -45,7 +45,7 @@
             }
         },
         "photo": {
-            "regexp": "https://picsum\\.photos/seed/[0-9]{5}/800/600"
+            "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1296/972"
         },
         "body": {
             "loremSentences": {
