@@ -205,5 +205,21 @@
                 "max": "2020-12-31T23:59:59Z"
             }
         }
+    },
+    "Reactions": {
+        "summary": {
+            "likes": {
+                "int": {
+                    "min": 0,
+                    "max": 100
+                }
+            },
+            "dislikes": {
+                "int": {
+                    "min": 0,
+                    "max": 100
+                }
+            }
+        }
     }
 }
