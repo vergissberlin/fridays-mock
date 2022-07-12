@@ -207,18 +207,16 @@
         }
     },
     "Reactions": {
-        "summary": {
-            "likes": {
-                "int": {
-                    "min": 0,
-                    "max": 100
-                }
-            },
-            "dislikes": {
-                "int": {
-                    "min": 0,
-                    "max": 100
-                }
+        "likes": {
+            "int": {
+                "min": 0,
+                "max": 100
+            }
+        },
+        "dislikes": {
+            "int": {
+                "min": 0,
+                "max": 100
             }
         }
     }
