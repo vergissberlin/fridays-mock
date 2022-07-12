@@ -4,13 +4,13 @@ Mockend for testing purpose
 
 ## Enpoints
 
-
 ### User
 
 - https://mockend.com/vergissberlin/fridays-mock/user
 - https://mockend.com/vergissberlin/fridays-mock/user/1
 
 #### Example
+
 ```json
 {
 	"age": 77,
@@ -34,6 +34,21 @@ Mockend for testing purpose
 
 - https://mockend.com/vergissberlin/fridays-mock/comment
 - https://mockend.com/vergissberlin/fridays-mock/comments
+
+## GraphQL
+
+You can also use graphql to query the mockend:
+
+```graphql
+query {
+  users {
+    lastName,
+    firstName
+  }
+}
+```
+
+[Here](https://mockend.com/vergissberlin/fridays-mock/graphql?query=query%20%7B%0A%20%20users%20%7B%0A%20%20%20%20lastName%2C%0A%20%20%20%20firstName%0A%20%20%7D%0A%7D) you can see it in action.
 
 ## Contribution
 
