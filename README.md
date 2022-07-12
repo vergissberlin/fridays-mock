@@ -35,6 +35,10 @@ Mockend for testing purpose
 - https://mockend.com/vergissberlin/fridays-mock/comment
 - https://mockend.com/vergissberlin/fridays-mock/comments
 
+### Reactions
+
+- https://mockend.com/vergissberlin/fridays-mock/reactions
+
 ## GraphQL
 
 You can also use graphql to query the mockend:
